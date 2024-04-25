@@ -11,8 +11,9 @@
 body {
     font-family: Lato, Arial;
     color: #fff;
-    padding: 55px 25px;
-    background-color: red;
+    background-color: #4F6F52;
+    background-image: url('./bgup.png');
+    
 }
 
 h1 {
@@ -46,6 +47,55 @@ p {
         }
     }
 }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./bglw1.png');
+  }
+  
+.color-div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0 10px;
+    position: relative;
+    height: auto;
+    width: auto;
+}
+
+.BG1 {
+    background-image: url('./bgimg.png');
+    height: 200px;
+    width: auto;
+    margin: top auto;
+    background-color: #1A4D2E;
+    position: relative;
+    display: flex;
+    align-items: center; 
+    
+    background-image: url('./bgup.png');
+}
+
+
+#div1 {
+    height: fit-content;
+    width: fit-content;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    margin: 0 10px;
+}
+
+#div2{
+    justify-content: center;
+    align-items: center; 
+}
+
 
 .custom-file-upload-hidden {
     display: none;

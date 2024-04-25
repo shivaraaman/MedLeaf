@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedLeaf</title>
+    <link rel="stylesheet" href="static\css\style.css">
+    <style>
+          body {
+            background-image: url('./backleaf.png');
+        }
+    </style>
+    <script type="text/javascript">
+        // JavaScript code
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('sendButton').addEventListener('click', function() { // Update the button ID
+                var formData = new FormData();
+                var files = document.getElementById('fileInput').files;
+    
+                // Add each selected file to the FormData object
+                for (var i = 0; i < files.length; i++) {
+                    formData.append('file', files[i]);
+                }
+    
+                // Send the files to the server using AJAX
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', '/upload'); // Replace with your Python server endpoint
+                xhr.onload = function() {
+                    if (xhr.status === 200) {
+                        console.log('Image uploaded successfully.');
+                    } else {
+                        console.error('Error uploading image:', xhr.statusText);
+                    }
+                };
+                xhr.onerror = function() {
+                    console.error('Request failed');
+                };
+                xhr.send(formData);
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        // JavaScript code
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add an event listener to the send button
+            document.getElementById('sendButton').addEventListener('click', function() {
+                // Fetch the file path from the server
+                fetch('/upload', {
+                    method: 'POST',
+                    body: new FormData(), // No need to send any data for this request
+                    headers: {
+                        'X-Requested-With': 'XMLHttpRequest' // Add this header to specify AJAX request
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Extract the file path from the response
+                    const filePath = data.file_path;
+    
+                    // Make an AJAX request to the Flask route with the file path
+                    fetch('/get_input', {
+                        method: 'POST',
+                        body: JSON.stringify({ file_path: filePath }),
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'X-Requested-With': 'XMLHttpRequest' // Add this header to specify AJAX request
+                        }
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        // Process the prediction result
+                        console.log('Predicted class:', data.predicted_class);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+            });
+        });
+    </script>
+    
+    
+    
+</head>
+
+<body>
+    <div class="BG1">
+    <div id="div1" ><h1>MedLeaf</h1></div>
+    </div>
+    <div class="container">
+        <div class="color-div" id="div2">
+            <div>
+                <h1>UPLOAD THE IMAGE TO BE RECOGNISED</h1>
+                <div class="custom-file-upload">
+                    <input type="file" id="fileInput" name="myfiles[]" multiple />
+                    <button id="sendButton">Send</button> <!-- Add the send button -->
+                </div> 
+            </div>
+        </div>
+    </div>
+    
+</body>
+
+</html>
