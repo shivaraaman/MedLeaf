@@ -1,0 +1,138 @@
+.logo-container {
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    text-align: center;
+}
+
+.logo img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+
+.task-bar {
+    background-color:  #faefefc4;
+    /* Blue color, change as needed */
+    border-radius: 150px; /* Adjust the border radius to change the shape and thickness */
+    padding: 25px 50px; /* Add padding to the task bar */
+    margin: 0 auto; 
+    margin-top: -7px;/* Add margin to center horizontally */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: 1300px; /* Ensure relative positioning for z-index to work */
+}
+
+.sentence {
+    color: #fff; /* White color for the text */
+}
+
+.links {
+    color: #fff; /* White color for the links */
+    text-decoration: none; /* Remove underline */
+    margin-left: 20px; /* Add margin to the links */
+}
+
+
+
+
+.quarter-circle-holder {
+    width: 700px; /* Set the width of the quarter circle */
+    height: 700px; /* Set the height of the quarter circle */
+    background-color: #fff; /* White background color */
+    border-top-right-radius: 5000px; /* Border radius for top-right corner */
+    overflow: hidden; /* Hide overflow content */
+    position: absolute; /* Position the holder absolutely */
+    top: 0; /* Align it to the top of the container */
+    left: 0; /* Align it to the left of the container */
+    transform: scaleY(-1); /* Flip vertically */
+}
+.quarter-circle-holder img {
+    width: 700px; /* Make the image fill the container */
+    height: 750px; /* Maintain aspect ratio */
+}
+
+
+
+/* Style for the common container */
+.container {
+    background-image: url('bg-home.png'); /* Green background color */
+    background-size: cover; /* Scale the background image to cover the entire container */
+    background-position: center; /* Center the background image */
+    height: 700px; /* Set the height of the container */
+    margin: 0; /* Reset margin */
+    position: absolute; /* Ensure absolute positioning */
+    top: 0; /* Align to the top of the viewport */
+    left: 0; /* Align to the left of the viewport */
+    width: 100%; /* Ensure full width */
+}
+
+
+
+.file-upload {
+    position: absolute !important;
+    top: 80% !important; /* Adjust as needed to move it further down */
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    z-index: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 22px !important;
+    width: fit-content !important; /* Adjusts the width to fit the content */
+}
+
+.curved-button {
+    background-color: #faefefc4;
+    border: 2px white; /* Add border for visibility */
+    border-radius: 20px; /* Adjust the border-radius to control the curvature */
+    padding: 10px 20px; /* Add padding for space inside the button */
+    font-size: 30px; /* Adjust font size */
+    cursor: pointer; /* Add cursor pointer on hover */
+    transition: background-color 0.3s ease; /* Add transition effect */
+}
+
+.curved-button.secondary {
+    margin-left: 20px; /* Add margin to separate buttons */
+}
+
+.curved-button:hover {
+    background-color: rgba(92, 29, 29, 0.1); /* Change background color on hover */
+}
+.inputfile {
+    display: none;
+}
+
+
+
+.curved-button-upload {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+
+
+
+
+/* for output */
+.output-container {
+    margin-top: 800px; /* Adjust margin-top to move it below the home section */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Set width to 100% */
+}
+
+.output-box {
+    width: 400px; /* Adjust width as needed */
+    height: 300px; /* Adjust height as needed */
+    padding: 20px;
+    background-color: #f2f2f2; /* Background color of the box */
+    border: 2px solid #c1cebe; /* Border color */
+    border-radius: 20px; /* Border radius */
+}
