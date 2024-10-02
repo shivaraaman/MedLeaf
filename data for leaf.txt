@@ -1,0 +1,208 @@
+Here's the classification for each plant:
+
+1. **Aerva lanata**
+   - Common Name: Mountain knotgrass
+   - Botanical Name: Aerva lanata
+   - Family: Amaranthaceae
+   - Bioactive Compounds: Flavonoids, saponins, alkaloids
+   - Traditional Uses: Used in traditional medicine for its diuretic, anti-inflammatory, and anti-diabetic properties.
+
+2. **Aloe vera**
+   - Common Name: Aloe, Burn plant
+   - Botanical Name: Aloe vera
+   - Family: Asphodelaceae
+   - Bioactive Compounds: Aloin, polysaccharides, anthraquinones
+   - Traditional Uses: Widely used for its healing properties in treating burns, wounds, and skin ailments.
+
+3. **Andrographis paniculata**
+   - Common Name: Kalmegh, Green chiretta
+   - Botanical Name: Andrographis paniculata
+   - Family: Acanthaceae
+   - Bioactive Compounds: Andrographolide, diterpenoids
+   - Traditional Uses: Used in traditional medicine for its immune-boosting and anti-inflammatory properties.
+
+4. **Bacopa monnieri**
+   - Common Name: Brahmi, Water hyssop
+   - Botanical Name: Bacopa monnieri
+   - Family: Plantaginaceae
+   - Bioactive Compounds: Bacosides, alkaloids
+   - Traditional Uses: Known for its cognitive-enhancing and memory-improving properties in Ayurvedic medicine.
+
+5. **Calotropis gigantea**
+   - Common Name: Crown flower, Giant milkweed
+   - Botanical Name: Calotropis gigantea
+   - Family: Apocynaceae
+   - Bioactive Compounds: Calotropin, uscharin
+   - Traditional Uses: Utilized in traditional medicine for its anti-inflammatory and analgesic properties.
+6. **Centella asiatica**
+   - Common Name: Gotu kola, Indian pennywort
+   - Botanical Name: Centella asiatica
+   - Family: Apiaceae
+   - Bioactive Compounds: Triterpenoids, asiaticoside
+   - Traditional Uses: Known for its wound healing and cognitive-enhancing properties in traditional medicine.
+
+7. **Chromolaena odorata**
+   - Common Name: Siam weed, Bitter bush
+   - Botanical Name: Chromolaena odorata
+   - Family: Asteraceae
+   - Bioactive Compounds: Triterpenes, flavonoids
+   - Traditional Uses: Used in traditional medicine for its anti-inflammatory and antimicrobial properties.
+
+8. **Cissus quadrangularis**
+   - Common Name: Veld grape, Devil's backbone
+   - Botanical Name: Cissus quadrangularis
+   - Family: Vitaceae
+   - Bioactive Compounds: Ketosterones, flavonoids
+   - Traditional Uses: Utilized for its bone-strengthening and anti-inflammatory effects in traditional medicine.
+
+9. **Clerodendrum infortunatum**
+   - Common Name: Hill glory bower, Sorcerer's bush
+   - Botanical Name: Clerodendrum infortunatum
+   - Family: Lamiaceae
+   - Bioactive Compounds: Alkaloids, flavonoids
+   - Traditional Uses: Employed for its analgesic and anti-inflammatory properties in traditional medicine.
+
+10. **Clitoria ternatea**
+   - Common Name: Butterfly pea, Blue pea
+   - Botanical Name: Clitoria ternatea
+   - Family: Fabaceae
+   - Bioactive Compounds: Flavonoids, alkaloids
+   - Traditional Uses: Known for its antioxidant and memory-enhancing properties in traditional medicine.
+11. **Coccinia grandis**
+   - Common Name: Ivy gourd, Scarlet gourd
+   - Botanical Name: Coccinia grandis
+   - Family: Cucurbitaceae
+   - Bioactive Compounds: Coccinegrandin, flavonoids
+   - Traditional Uses: Utilized for its anti-diabetic and anti-inflammatory properties in traditional medicine.
+
+12. **Curcuma longa**
+   - Common Name: Turmeric
+   - Botanical Name: Curcuma longa
+   - Family: Zingiberaceae
+   - Bioactive Compounds: Curcumin, turmerones
+   - Traditional Uses: Renowned for its anti-inflammatory and antioxidant properties in Ayurvedic medicine.
+
+13. **Datura metal linn**
+   - Common Name: Thorn apple, Devil's trumpet
+   - Botanical Name: Datura metal linn
+   - Family: Solanaceae
+   - Bioactive Compounds: Tropane alkaloids, scopolamine
+   - Traditional Uses: Used cautiously in traditional medicine for its hallucinogenic and analgesic properties.
+
+14. **Desmodium gangeticum**
+   - Common Name: Sal leaved desmodium
+   - Botanical Name: Desmodium gangeticum
+   - Family: Fabaceae
+   - Bioactive Compounds: Flavonoids, alkaloids
+   - Traditional Uses: Known for its hepatoprotective and anti-inflammatory properties in traditional medicine.
+
+15. **Hemigraphis colorata**
+   - Common Name: Red ivy, Waffle plant
+   - Botanical Name: Hemigraphis colorata
+   - Family: Acanthaceae
+   - Bioactive Compounds: Phenolic compounds, flavonoids
+   - Traditional Uses: Utilized for its antioxidant and anti-inflammatory effects in traditional medicine.
+
+16. **Kaempferia galanga linn**
+   - Common Name: Galangal, Thai ginger
+   - Botanical Name: Kaempferia galanga linn
+   - Family: Zingiberaceae
+   - Bioactive Compounds: Galangin, gingerol
+   - Traditional Uses: Known for its digestive and anti-inflammatory properties in traditional medicine.
+
+17. **Mentha spicata**
+   - Common Name: Spearmint
+   - Botanical Name: Mentha spicata
+   - Family: Lamiaceae
+   - Bioactive Compounds: Menthol, carvone
+   - Traditional Uses: Utilized for its digestive and respiratory benefits in traditional medicine.
+
+18. **Ocimum gratissimum**
+   - Common Name: Clove basil, African basil
+   - Botanical Name: Ocimum gratissimum
+   - Family: Lamiaceae
+   - Bioactive Compounds: Eugenol, thymol
+   - Traditional Uses: Known for its antimicrobial and anti-inflammatory properties in traditional medicine.
+
+19. **Ocimum tenuiflorum**
+   - Common Name: Holy basil, Tulsi
+   - Botanical Name: Ocimum tenuiflorum
+   - Family: Lamiaceae
+   - Bioactive Compounds: Ursolic acid, eugenol
+   - Traditional Uses: Considered sacred and utilized for its adaptogenic and immunomodulatory properties in traditional medicine.
+
+20. **Oxalis corniculata**
+   - Common Name: Creeping woodsorrel, Yellow woodsorrel
+   - Botanical Name: Oxalis corniculata
+   - Family: Oxalidaceae
+   - Bioactive Compounds: Flavonoids, oxalic acid
+   - Traditional Uses: Used for its diuretic and anti-inflammatory effects in traditional medicine.
+21. **Peperomia pellucida**
+   - Common Name: Shiny bush, Radiator plant
+   - Botanical Name: Peperomia pellucida
+   - Family: Piperaceae
+   - Bioactive Compounds: Flavonoids, alkaloids
+   - Traditional Uses: Employed for its anti-inflammatory and analgesic properties in traditional medicine.
+
+22. **Phyllanthus niruri**
+   - Common Name: Chanca piedra, Stonebreaker
+   - Botanical Name: Phyllanthus niruri
+   - Family: Phyllanthaceae
+   - Bioactive Compounds: Phyllanthin, hypophyllanthin
+   - Traditional Uses: Known for its hepatoprotective and anti-urolithiatic properties in traditional medicine.
+
+23. **Piper betle**
+   - Common Name: Betel leaf
+   - Botanical Name: Piper betle
+   - Family: Piperaceae
+   - Bioactive Compounds: Piperine, eugenol
+   - Traditional Uses: Utilized for its antimicrobial and digestive properties in traditional medicine.
+
+24. **Piper longum**
+   - Common Name: Long pepper
+   - Botanical Name: Piper longum
+   - Family: Piperaceae
+   - Bioactive Compounds: Piperine, piperlongumine
+   - Traditional Uses: Known for its digestive and respiratory benefits in traditional medicine.
+
+25. **Piper nigrum**
+   - Common Name: Black pepper
+   - Botanical Name: Piper nigrum
+   - Family: Piperaceae
+   - Bioactive Compounds: Piperine, piperlongumine
+   - Traditional Uses: Utilized for its digestive and antioxidant properties in traditional medicine.
+
+26. **Plectranthus barbatus**
+   - Common Name: Indian coleus, Coleus forskohlii
+   - Botanical Name: Plectranthus barbatus
+   - Family: Lamiaceae
+   - Bioactive Compounds: Forskolin, diterpenoids
+   - Traditional Uses: Known for its cardiovascular and weight loss benefits in traditional medicine.
+
+27. **Plumbago indica**
+   - Common Name: Leadwort, Doctorbush
+   - Botanical Name: Plumbago indica
+   - Family: Plumbaginaceae
+   - Bioactive Compounds: Plumbagin, flavonoids
+   - Traditional Uses: Employed for its anti-inflammatory and analgesic properties in traditional medicine.
+
+28. **Pseudarthria viscida**
+   - Common Name: False sarsaparilla
+   - Botanical Name: Pseudarthria viscida
+   - Family: Fabaceae
+   - Bioactive Compounds: Isoflavonoids, triterpenoids
+   - Traditional Uses: Known for its anti-inflammatory and diuretic properties in traditional medicine.
+
+29. **Ricinus communis linn**
+   - Common Name: Castor oil plant
+   - Botanical Name: Ricinus communis linn
+   - Family: Euphorbiaceae
+   - Bioactive Compounds: Ricinoleic acid, alkaloids
+   - Traditional Uses: Utilized for its laxative and anti-inflammatory properties in traditional medicine.
+
+30. **Tinospora cordifolia**
+   - Common Name: Guduchi, Giloy
+   - Botanical Name: Tinospora cordifolia
+   - Family: Menispermaceae
+   - Bioactive Compounds: Berberine, tinosporin
+   - Traditional Uses: Known for its immunomodulatory and hepatoprotective properties in traditional medicine.
