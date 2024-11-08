@@ -1,5 +1,3 @@
-#Med-Leaf repo
- All source code
+MedLeaf is an innovative web-based application designed to revolutionize botanical identification and medicinal research through image recognition technology. By allowing users to upload an image of a plant leaf, MedLeaf quickly identifies the leaf and provides detailed information, including its common and botanical names, family, forms, and medicinal benefits. Leveraging advanced AI algorithms, the application caters to healthcare professionals, botanical enthusiasts, and individuals interested in natural remedies. Beyond identification, MedLeaf offers immediate insights into the therapeutic potential of various leaves, equipping users with actionable knowledge for informed decisions on natural treatments. With a user-friendly interface, MedLeaf makes botanical exploration accessible to all, streamlining medicinal research and enhancing healthcare efficiency by bridging the gap between botany and medicine.
 
-
-LINK : https://shivaraaman.github.io/MedLeaf/
+LINK : Under Development. Soon Link will be provided after Deploy.
